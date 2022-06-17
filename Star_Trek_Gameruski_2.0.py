@@ -1,6 +1,5 @@
 #Star Trek Gameruski
 #Game designed for URI SIS Lab to inspire coding and show applications of systems engineering.
-#Written by Aaron King, also included editing by Melissa Carcone
 #Edited Spring 2022
 #3/4/2022
 
